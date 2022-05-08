@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Rafael Tomais 👋
 
-- 🔭 Busco conhecimento na área de front e back-end
-- 🌱 No momento estou estudando JavaScript, HTML, CSS
+- 🔭 Busco conhecimento na área de desenvolvimento de software com cursos que irão me proporcionar um avanço significativo e eficiente
+- 🌱 No momento estou estudando JavaScript, HTML, CSS e MySQL
 - 😄 Pronouns: ele/dele
 
   <div align="center">
