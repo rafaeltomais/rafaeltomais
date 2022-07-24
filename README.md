@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Rafael Tomais 👋
 
 - 🔭 Busco conhecimento na área de desenvolvimento de software com cursos que irão me proporcionar um avanço significativo e eficiente
-- 🌱 No momento estou estudando JavaScript, HTML, CSS e MySQL
+- 🌱 No momento estou trabalhando com desenvolvimento de Chatbots
 - 😄 Pronouns: ele/dele
 
   <div align="center">
